@@ -5,7 +5,7 @@
 
 1. 克隆项目
 ```bash
-git clone https://github.com/your-username/your-repo.git
+git clone https://github.com/jiang-convey/your-repo.git
 ```
 
 2. 创建功能分支
