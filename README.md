@@ -5,7 +5,7 @@
 
 1. 克隆项目
 ```bash
-git clone https://github.com/jiang-convey/your-repo.git
+git clone https://github.com/jiang-convey/-.git
 ```
 
 2. 创建功能分支
@@ -25,9 +25,8 @@ git push origin feature/your-feature-name
 1. 在 Issues 中认领任务
 2. 从 main 创建功能分支
 3. 开发完成后发起 Pull Request
-4. 至少需要1位同事代码审查
-5. 通过所有检查后合并
-6. 删除功能分支
+4. 通过所有检查后合并
+5. 删除功能分支
 
 ## 📝 提交信息规范
 
